@@ -51,11 +51,9 @@ You can learn more about Frame and purchase the device at [brilliant.xyz/product
 
 ## Demo
 Demo
-<p align="center">   <iframe
-src="https://www.youtube.com/shorts/NCxZcATHQD8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe> </p>
+  
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/NCxZcATHQD8/mq2.jpg?sqp=CLjTuMEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBCKDIwDw==&rs=AOn4CLDBW1VACOY9w48Zw1Sq_TFfTlQXuA)](http://www.youtube.com/watch?v=NCxZcATHQD8 "FramePolyglot Demo")
+
 
 ## Architecture
 
