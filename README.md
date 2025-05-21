@@ -30,6 +30,33 @@ The system employs a hybrid architecture that combines the efficiency of Lua for
 - **Robust Error Handling**: Graceful recovery from connection and processing issues
 - **Resource-efficient Implementation**: Optimized for Frame's hardware constraints
 
+## Hardware
+
+This project is specifically designed for the **Frame** device by Brilliant Labs.
+
+<p align="center">
+  <img src="https://sjc.microlink.io/T3-msiaWB4S8s6JcBaLEYiPW5f3Ww2tKLrtJuVuhwG0AhBR9WGjPtErmIaNz9rZNd_PySUUzNmD8M-gbnj3gLQ.jpeg" alt="Frame by Brilliant Labs" width="600"/>
+</p>
+
+Frame is a pair of AI-enabled smart glasses designed for developers and hackers. It features:
+
+- Built-in microphone for audio capture
+- Display capabilities for showing text and graphics
+- Bluetooth connectivity for communication with host devices
+- Programmable with Lua for custom applications
+- Sensors including IMU, camera, and more
+
+You can learn more about Frame and purchase the device at [brilliant.xyz/products/frame](https://brilliant.xyz/products/frame).
+
+
+## Demo
+Demo
+<p align="center">   <iframe
+src="https://www.youtube.com/shorts/NCxZcATHQD8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe> </p>
+
 ## Architecture
 
 The system architecture employs a bidirectional communication flow between the Frame device and the host computer, with specialized components handling different aspects of the processing pipeline:
